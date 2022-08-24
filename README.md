@@ -4,7 +4,7 @@ Linux Inception is a Python file that allows you to run your own custom shell.
 
 ## INSTALL 
 ###### W10 / MAC
-Please run this from Replit as it was built for Linux.[ReplIt](https://replit.com/@DanTheDevStuff/Linux-Inception#main.py)
+Please run this from Replit as it was built for Linux. [Replit](https://replit.com/@DanTheDevStuff/Linux-Inception#main.py)
 ###### Linux
 Please do not type `$` as this is to show the start of the commands.
 ```
